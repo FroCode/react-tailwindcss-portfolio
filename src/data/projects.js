@@ -20,7 +20,7 @@ export const projectsData = [
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
+		title: 'Data Science Platform',
 		category: 'Mobile Application',
 		img: MobileImage2,
 	},
